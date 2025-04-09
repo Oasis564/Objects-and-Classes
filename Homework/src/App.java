@@ -6,7 +6,7 @@ public class App {
 
 
 
-        System.out.println("Please enter the diameter of the circle");
+        System.out.println("Please enter the diameter to get the radius of the circle");
         int diameter = s.nextInt();
 
         System.out.println("------------------------------------------------------");
@@ -29,7 +29,7 @@ public class App {
 
 
         int radius = diameter/2;
-        System.out.println("The radius is: " + radius + "cm");
+        System.out.println("The radius of the circle is: " + radius + "cm");
 
         System.out.println("------------------------------------------------------");
 
