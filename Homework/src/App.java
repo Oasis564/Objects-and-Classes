@@ -38,7 +38,7 @@ public class App {
 
         System.out.println("------------------------------------------------------");
 
-        int triangleA = (1/2)*b*c;
+        int triangleA = b*c/2;
         System.out.println("The area of the triangle: " + triangleA + "cm");
 
 
